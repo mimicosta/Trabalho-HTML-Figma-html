@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.paizao{
+max-width: 928px;
+width: 100%; /* Garante que ele ocupe o espaço disponível até o máximo */
+height: 461px;
+align-items: center;
+padding: 0 33px;
+gap: 40px; 
+display:flex;
+flex-direction:row;
+
+
+}
+.pai-texto{
+width: 447.78px;
+height: 127.47px;
+margin-top: -50px;
+margin-right: 15px;
+}
+.titulo {
+
+font-family: "Poppins", sans-serif;
+font-weight: 700;
+font-size: 29.52px;
+line-height: 31.98px;
+letter-spacing: 0%;
+margin-bottom: 3px;
+margin-top: 0;
+}
+
+.preto {
+  color: #000000;
+}
+
+.amarelo{
+    color: #FFBB00;
+}
+
+.paragrafo {
+width: 440.78px;
+height: 95px;
+font-family: "Poppins", sans-serif;
+font-weight: 300;
+font-size: 12.79px;
+line-height: 23.62px;
+letter-spacing: 0%;
+margin-top: 0%;
+margin-left: 3px;
+margin-bottom: 2px;
+text-align: left;
+}
+
+.foto-lado{
+width: 393.650px;
+height: 314.939px;
+margin-left: -60px;
+margin-right: 0px;
+margin-top: -70px;
+}
+.foto2{
+display: flex;
+flex-direction:column;
+margin-top: -60px;
+}
+
+.foto-embaixo{
+width: 413.33px;
+height: 201.74px;
+margin-top: -125px; ;
+
+
+}
