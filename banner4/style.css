@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+ 
+ 
+ 
+.paizaoB4{
+ 
+background-color: #FFFFFF;
+width: 944.7618408203125px;
+height: 477.79364013671875px;
+top: 1467.33px;
+display: flex;
+flex-direction: column;
+
+margin: auto;
+
+}
+ 
+ 
+.textoB4{
+    
+text-align: center
+}
+
+ 
+.tituloB4{
+color: #000000;
+ 
+font-family: "Poppins", sans-serif;
+font-weight: 600;
+font-style: normal;
+text-align: center 
+
+
+}
+ 
+
+
+.blococentralB4{
+   
+    background-color:#FFFFFF;
+    width: 944.7618408203125px;
+    height: 278.9999694824219px;
+    top: 1580.51px;
+    left: 30.02px;
+    display: flex;
+    flex-direction: row;
+    text-align: center 
+    
+
+}
+
+
+
+.bloco1B4{
+    display: flex;
+    flex-direction: column;
+
+}
+.bloco2B4{
+    display: flex;
+    flex-direction: column;
+  
+}
+.bloco3B4{
+  
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+   
+}
+
+
+
+
+
+
+.paragrafoB4{
+ 
+color: #000000;
+
+font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 9.84px;
+  text-align: center
+}
+.paragrafo1B4{
+ 
+    color: #000000;
+    
+    font-family: "Poppins", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 9.84px;
+      
+      text-align: center
+      
+    }
+.paragrafo2B4{
+ 
+color: #000000;
+        
+font-family: "Poppins", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 9.84px;
+
+text-align: center
+ }
+        
+.paragrafo3B4{
+ 
+color: #000000;
+            
+font-family: "Poppins", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 9.84px;
+text-align: center
+ }
+
+.imagensB4{
+  
+ text-align: center
+}
+
+.imagem1B4{
+
+    
+    height: 137.9617156982422;
+    top: 1580.51px;
+    left: 112.19px;
+    border-radius: 40.35px;
+   
+   
+
+}
+.imagem2B4{
+    
+    height: 133.84124755859375;
+    top: 1584.44px;
+    left: 405.46px;
+    border-radius: 66.92px;
+    margin-bottom: 4px;
+   
+    
+} 
+
+.imagem3B4{
+
+    
+    
+    height: 114.65079498291016;
+    top: 1603.64px;
+    left: 731.7px;
+    border-radius: 45.76px;
+   margin-bottom: 8px;
+}
+.emojisB4{
+text-align: center 
+}
+ 
