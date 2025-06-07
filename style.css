@@ -2,13 +2,11 @@
 .paizaoB1 {
 
   background-color: #FFFFFF;
-  width: 989px;
-  height: 467.69px;
   
   display: flex;
   flex-direction: row;
   margin-left: 40.45px;
-
+justify-content: space-between;
 }
 
 .textoB1{
@@ -59,24 +57,24 @@ border-radius: 20.62px;
 }
 
 .imagemB1{
-
-  padding-top: 55px;
   
+  padding-top: 55px;
+
 }
 
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 .paizao{
-max-width: 928px;
-width: 100%; /* Garante que ele ocupe o espaço disponível até o máximo */
+
+
 height: 461px;
 align-items: center;
 padding: 0 33px;
 gap: 40px; 
 display:flex;
 flex-direction:row;
-
+justify-content: space-between;
 
 }
 .pai-texto{
@@ -91,9 +89,7 @@ font-family: "Poppins", sans-serif;
 font-weight: 700;
 font-size: 29.52px;
 line-height: 31.98px;
-letter-spacing: 0%;
 margin-bottom: 3px;
-margin-top: 0;
 }
 
 .preto {
@@ -105,14 +101,10 @@ margin-top: 0;
 }
 
 .paragrafo {
-width: 440.78px;
-height: 95px;
 font-family: "Poppins", sans-serif;
 font-weight: 300;
-font-size: 12.79px;
-line-height: 23.62px;
-letter-spacing: 0%;
-margin-top: 0%;
+font-size: 13px;
+line-height: 24px;
 margin-left: 3px;
 margin-bottom: 2px;
 text-align: left;
@@ -122,13 +114,12 @@ text-align: left;
 width: 393.650px;
 height: 314.939px;
 margin-left: -60px;
-margin-right: 0px;
 margin-top: -70px;
 }
 .foto2{
 display: flex;
 flex-direction:column;
-margin-top: -60px;
+
 }
 
 .foto-embaixo{
@@ -138,12 +129,6 @@ margin-top: -125px; ;
 
 
 }
-
-
-
-
-
-
 
 
 
@@ -226,9 +211,8 @@ body {
 .paizaoB4{
  
   background-color: #FFFFFF;
-  width: 944.7618408203125px;
-  height: 477.79364013671875px;
-  top: 1467.33px;
+  width: 945px;
+  height: 478px;
   display: flex;
   margin: auto;
   flex-direction: column;
@@ -258,30 +242,22 @@ body {
   
   
   .blococentralB4{
-     
-    background-color:#FFFFFF;
-    width: 944.7618408203125px;
-    height: 278.9999694824219px;
-    top: 1580.51px;
-    left: 30.02px;
     display: flex;
     flex-direction: row;
-    text-align: center 
-    
-  
+    text-align: center; 
+    margin-left: 120px;
   }
-  
-  
   
   .bloco1B4{
       display: flex;
       flex-direction: column;
+     margin-right: 10px;
   
   }
   .bloco2B4{
       display: flex;
       flex-direction: column;
-    
+      margin-right: 15px;
   }
   .bloco3B4{
     
@@ -290,10 +266,6 @@ body {
       margin-top: 15px;
      
   }
-  
-  
-  
-  
   
   
   .paragrafoB4{
